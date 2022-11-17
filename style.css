@@ -1,0 +1,14 @@
+body {
+    background-color: #ccc;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 200px 100px;
+    background-color: bisque;
+}
+
+.grid-item {
+    background-color: blue;
+    fon
+}
